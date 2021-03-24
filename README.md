@@ -1,6 +1,4 @@
-# Compressive
-
-# Sensing
+# Compressive Sensing
 
 ```
 March 23, 2021
