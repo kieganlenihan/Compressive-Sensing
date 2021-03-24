@@ -7,7 +7,7 @@ March 23, 2021
 Kiegan Lenihan
 ```
 ## Getting started
-Clone the repository and simply run with Python 3. Make sure all of your dependencies are in order. The simulations take along time, so it might make more sense to just start with fishing_boat.bmp and lambdas = 1. Kfolds-CV is significantly faster than Random CV also.
+Clone the repository and simply run with Python 3. Make sure all of your dependencies are in order. The simulations take a long time, so it might make more sense to just start with fishing_boat.bmp and lambdas = 1. Kfolds-CV is significantly faster than Random CV also.
 
 ## Problem Definition
 
